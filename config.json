@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configdender",
+        "uuid": 5159682,
+        "checksum": "o2fu26"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
